@@ -102,18 +102,6 @@ Built in Rust. Key crates:
 
 ---
 
-## Contributing
-
-This project is in early development and good first areas to contribute are:
-
-- Improving Electron process detection heuristics
-- Testing on different Linux distributions
-- Adding support for detecting more Electron app signatures
-
-Please run `cargo fmt` and `cargo clippy` before submitting a PR.
-
----
-
 ## License
 
 MIT © 2025
